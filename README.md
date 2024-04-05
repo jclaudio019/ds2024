@@ -1,1 +1,1 @@
-# Data Science Project 2024
+# Data Science Projects 2024
