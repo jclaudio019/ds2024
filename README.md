@@ -1,1 +1,1 @@
-# ds2024
+# Data Science Project 2024
